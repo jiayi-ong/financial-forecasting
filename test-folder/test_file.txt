@@ -1,2 +1,2 @@
 test
-test new line -edited by test-brach-2
+resolved new line
